@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+#bomb-it {
+    margin-left: 37%;
+}
+
+/*  js */
+div {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 40px;
+    height: 80px;
+    width: 80px;
+    display: table-cell;
+}
+
+.number {
+    color: #fff;
+}
+
+.numberShow {
+    color: #000;
+}
+
+/* .colorChange {
+    background: red;
+} */
+
+btn {
+    background-color: #d80c50;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 1%;
+    border: none;
+}
